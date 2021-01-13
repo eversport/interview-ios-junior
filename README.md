@@ -3,7 +3,7 @@
 ### Provide a map overview with all venues
 Eversports wants their users to stay active and book their sport easily. Therefore it’s important that the users can find a sport venue in their area.
  
-## Desired behavior
+### Desired behavior
 - Get the list of venues from the server
 
 https://run.mocky.io/v3/7a44e8b3-f3e9-489e-8365-a178bc878b1d
