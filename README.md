@@ -24,5 +24,5 @@ There will be a small live coding task during the interview to build on top of y
 
 - - -
 
-### Theoretical Questions
+### THEORETICAL QUESTIONS
 Some theoretical / pratical questions about Swift programming.
