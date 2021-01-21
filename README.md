@@ -1,4 +1,4 @@
-# interview-iOS-junior
+# Interview iOS Junior developer
 
 ## HOMEWORK TASK
 ### Provide a map overview with all venues
